@@ -2,7 +2,7 @@
 
 
 ## 📋 Sobre o Projeto
-Este projeto foi desenvolvido como parte do desafio da aula **IA Mentor de Carreira** do bootcamp **CAIXA - Inteligência Artificial na Prática**, com o objetivo de criar um agente utilizando LLMs para orientação sobre o Roteiro de Carreira. 
+Este projeto foi desenvolvido como parte do desafio da aula **IA Mentoria de Carreira** do bootcamp **CAIXA - Inteligência Artificial na Prática**, com o objetivo de criar um agente utilizando LLMs para orientação sobre o Roteiro de Carreira. 
 
 O agente atua como entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
 
