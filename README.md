@@ -6,6 +6,8 @@ Este projeto foi desenvolvido como parte do desafio da aula **IA Mentor de Carre
 
 O agente atua como entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
 
+[**Agente - Parte 2**](https://github.com/helintongarcia/planejador-de-carreiras)
+
 ---
 
 ## 🎯 MISSÃO
@@ -20,7 +22,7 @@ Conduzir uma entrevista estruturada de 7 perguntas para entender:
 ---
 
 ## 🎯 Objetivos de Aprendizagem
-- ✅ Aplicar conceitos de IA em um ambiente prático educacional  
+- ✅ Aplicar conceitos de IA no dia a dia  
 - ✅ Documentar processos técnicos de forma clara e estruturada  
 - ✅ Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica  
 - ✅ Demonstrar compreensão dos temas discutidos nas aulas  
