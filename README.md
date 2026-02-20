@@ -1,15 +1,21 @@
-# 🎓 Plano de Aula Interativo e Personalizado com Ecossistema IA
-**License:** MIT  
-**GitHub:** Projeto aberto
+# 🎓 Criação de um agente entrevistador de carreira na área de tecnologia
+
 
 ## 📋 Sobre o Projeto
-Este projeto foi desenvolvido como parte do **Desafio de Projeto da Digital Innovation One (DIO)**, com o objetivo de criar um **Plano de Aula Interativo e Personalizado** utilizando ferramentas de Inteligência Artificial.
+Este projeto foi desenvolvido como parte do desafio da aula **IA Mentor de Carreira** do bootcamp **CAIXA - Inteligência Artificial na Prática**, com o objetivo de criar um agente utilizando LLMs para orientação sobre o Roteiro de Carreira. 
 
-O projeto demonstra como a IA pode ser aplicada no contexto educacional para:
-- Criar planos de aula estruturados e personalizados
-- Adaptar conteúdos para diferentes níveis de aprendizado
-- Gerar atividades interativas e avaliações
-- Otimizar o tempo de preparação dos educadores
+O agente atua como entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
+
+---
+
+## 🎯 MISSÃO
+
+Conduzir uma entrevista estruturada de 7 perguntas para entender:
+- Interesses e motivações
+- Experiência prévia
+- Disponibilidade de estudo
+- Preferências de trabalho
+- Objetivos profissionais
 
 ---
 
@@ -22,81 +28,46 @@ O projeto demonstra como a IA pode ser aplicada no contexto educacional para:
 ---
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
-- **Inteligência Artificial:** ChatGPT, Claude e outras plataformas de IA generativa  
+- **Inteligência Artificial:** Copilot, ChatGPT, Claude ou qualquer LLM  
 - **Versionamento:** Git e GitHub  
 - **Documentação:** Markdown  
-- **Metodologia:** Design Thinking aplicado à educação  
-
----
-
-## 📁 Estrutura do Projeto
-
----
-
-## 💡 Diferenciais do Projeto
-### Personalização Inteligente
-- Nível de conhecimento dos alunos  
-- Objetivos específicos de aprendizagem  
-- Tempo disponível para a aula  
-- Recursos tecnológicos disponíveis  
-
-### Metodologia Ativa
-- Aprendizagem baseada em projetos  
-- Gamificação  
-- Estudos de caso práticos  
-- Atividades *hands-on*  
-
-### Avaliação Contínua
-- Questões diagnósticas  
-- Atividades formativas  
-- Projetos práticos  
-- Autoavaliação  
-
----
-
-## 📚 Exemplos de Planos de Aula
-- **Programação JavaScript** – Fundamentos de programação para iniciantes  
-- **Matemática Aplicada** – Álgebra e resolução de problemas  
-- **Automação Industrial** – Sistemas de controle e supervisão  
-
----
-
-## 🔧 Como Utilizar Este Projeto
-### Para Educadores
-- Explore os exemplos na pasta `/exemplos`  
-- Use o template em `/templates` como base  
-- Adapte os prompts em `/prompts` para suas necessidades  
-- Personalize conforme seu contexto educacional  
-
-### Para Estudantes
-- Estude a metodologia aplicada  
-- Analise os exemplos práticos  
-- Entenda como a IA pode auxiliar no aprendizado  
-- Crie seus próprios planos de aula personalizados  
-
----
-
-## 📖 Documentação Adicional
-- **Metodologia:** Detalhes sobre a abordagem utilizada  
-- **Processo de Criação:** Passo a passo do desenvolvimento  
-- **Prompts Utilizados:** Exemplos de prompts eficazes  
-- **Reflexão de Aprendizado:** Insights e lições aprendidas  
+- **Metodologia:** Design Thinking aplicado à carreira  
 
 ---
 
 ## 🎓 Competências Desenvolvidas
-- Pensamento Crítico  
 - Criatividade  
-- Comunicação  
 - Tecnologia  
-- Pedagogia  
+- Engenharia de Prompt
 
 ---
 
 ## 🤝 Contribuições
 Este é um projeto educacional aberto. Sugestões e melhorias são bem-vindas!
 
-1. Faça um **Fork** do projeto  
-2. Crie uma branch para sua feature:  
-   ```bash
-   git checkout -b feature/MinhaFeature
+1. Faça um Fork do projeto
+2. Crie uma branch para sua feature (git checkout -b feature/MinhaFeature)
+3. Commit suas mudanças (git commit -m 'Adiciona nova feature')
+4. Push para a branch (git push origin feature/MinhaFeature)
+5. Abra um Pull Request
+
+---
+
+## 👨‍💻 Autor
+Helinton Garcia
+
+- GitHub: @helintongarcia (github.com in Bing)
+- LinkedIn: Marcus Vasconcellos
+- Email: marcus@vasconcellos.net.br
+
+---
+
+## 🙏 Agradecimentos
+- Digital Innovation One (DIO) pela oportunidade de aprendizado
+- Comunidade de Educadores que compartilham conhecimento
+- Ferramentas de IA que potencializam a educação
+
+---
+
+## ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+📢 Desenvolvido com 💙 como parte do **Desafio DIO**
